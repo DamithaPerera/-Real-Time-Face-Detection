@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DamithaPerera/-Real-Time-Face-Detection/issues"
   },
-  "homepage": "https://github.com/DamithaPerera/-Real-Time-Face-Detection#readme"
+  "homepage": "https://github.com/DamithaPerera/-Real-Time-Face-Detection#readme",
+  "dependencies": {
+    "face-api.js": "^0.21.0"
+  }
 }
